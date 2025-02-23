@@ -23,8 +23,6 @@ heuristic-algorithms/
 │── examples/
 │   │── tsp_example.py
 │   │── knapsack_example.py
-│── utils/
-│   │── helpers.py
 │── README.md
 │── requirements.txt
 │── main.py
