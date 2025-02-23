@@ -23,8 +23,6 @@ heuristic-algorithms/
 │── examples/
 │   │── tsp_example.py
 │   │── knapsack_example.py
-│── utils/
-│   │── helpers.py
 │── README.md
 │── requirements.txt
 │── main.py
@@ -56,7 +54,7 @@ heuristic-algorithms/
 
 ## 📖 References
 - "Metaheuristics: From Design to Implementation" - El-Ghazali Talbi
-- "Introduction to Optimization" - Pablo Pedregal
+- "An Introduction to Metaheuristics for Optimization" - Bastien Chopard · Marco Tomassini
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
